@@ -1,0 +1,1 @@
+{"py/object": "menu.Menu", "_store": {"py/object": "store.Store", "_games": {"py/set": [{"py/object": "game.Game", "_name": "Cod", "_tag": "fps", "_image": "path", "_comments": [], "_price": "50"}]}}, "_user": {"py/object": "user.User", "_name": "user1", "_lib": {"py/object": "lib.Lib", "_games": {"py/set": []}}, "_comments": []}, "_main_entries": {}}
